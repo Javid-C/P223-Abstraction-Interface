@@ -1,0 +1,14 @@
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\bin\Debug\netcoreapp3.1\AbstractionApp.exe
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\bin\Debug\netcoreapp3.1\AbstractionApp.deps.json
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\bin\Debug\netcoreapp3.1\AbstractionApp.runtimeconfig.json
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\bin\Debug\netcoreapp3.1\AbstractionApp.runtimeconfig.dev.json
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\bin\Debug\netcoreapp3.1\AbstractionApp.dll
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\bin\Debug\netcoreapp3.1\AbstractionApp.pdb
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.csproj.AssemblyReference.cache
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.AssemblyInfoInputs.cache
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.AssemblyInfo.cs
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.csproj.CoreCompileInputs.cache
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.dll
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.pdb
+C:\Users\nijat\source\repos\AbstractionApp\AbstractionApp\obj\Debug\netcoreapp3.1\AbstractionApp.genruntimeconfig.cache
